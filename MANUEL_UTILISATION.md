@@ -121,13 +121,13 @@ Ouvre la **Gestion des Expéditions** (voir section 5). Le montant d’une expé
 - **Nouvelle réclamation :** **Nouvelle Réclamation** → Client, Type, Description, Statut → **Créer**.
 - **Modifier** / **Supprimer** selon les actions affichées.
 
------------------
+-----------------4565464
 
 ## 10. Déconnexion
 
 Cliquer sur l’icône **Déconnexion** en bas à gauche du menu. La session est fermée et l’écran de connexion s’affiche.
 
-------------------
+------------------3463466
 
 ## Raccourcis utiles
 
