@@ -75,7 +75,7 @@ def save(self, *args, **kwargs):
 - Numéros de suivi d'expédition (UUID)
 - Numéros de tournée (format T-XXXXXX)
 - Numéros de facture (format F-XXXXXXXX)
-- Numéros de réclamation (format R-XXXXXXXX)YEYEYEY
+- Numéros de réclamation (format R-XXXXXXXX)YEYEYEYsdgsdgg
 
 **3. Calcul Automatique TVA/TTC pour les Factures**
 ```python
