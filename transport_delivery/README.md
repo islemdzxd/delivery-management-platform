@@ -32,6 +32,8 @@ venv\Scripts\Activate.ps1
 python manage.py runserver
 ```
 
+
+
 ### Terminal 2 - Frontend
 ```powershell
 cd transport_delivery\transport_delivery\frontend
