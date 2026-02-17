@@ -23,6 +23,12 @@ cd transport_delivery\transport_delivery\frontend
 npm install
 ```
 
+
+
+
+
+
+
 ## Run the Project
 
 ### Terminal 1 - Backend
