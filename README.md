@@ -6,6 +6,13 @@ Application web full‑stack de gestion d’une société de transport : expédi
 
 ## Résumé
 
+
+
+
+
+
+
+
 - **Backend :** Django 6 + Django REST Framework, API REST, SQLite  
 - **Frontend :** React 18, Vite, Tailwind CSS  
 - **Fonctionnalités :** clients, chauffeurs, véhicules, destinations, types de service, expéditions (suivi, tarification auto), tournées, factures, paiements, incidents, réclamations, tableau de bord analytique, authentification par email
